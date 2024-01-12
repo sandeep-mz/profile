@@ -28,7 +28,7 @@ const About = () => {
         storage solutions. <br />ORM Expertise: I have utilized Sequelize ORM to
         seamlessly interact with relational databases, streamlining the
         development process and enhancing database management.
-        <hr />
+         
       </p>
     </div>
   );
